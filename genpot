@@ -1,0 +1,59 @@
+#!/bin/bash
+#=============================================================================
+# Generate pot file from ISO 3166-1 database
+#
+# Author:  Seth Fischer
+#=============================================================================
+
+set -o nounset
+
+ISO3166_SENTENCE_CASE_DB="iso3166-1_en_sentence_case.csv"
+POT_FILE="mundo-names.pot"
+
+POT_CREATION_DATE=$(date '+%Y-%m-%d %H:%M%z')
+
+# delete contents of pot file
+cat /dev/null >| $POT_FILE
+
+# write header comment
+(
+cat <<EOF
+# mundo-names
+# https://github.com/sethfischer/mundo-names
+# This file is distributed under the same licence as the mundo-names package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: mundo-names\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: $POT_CREATION_DATE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+EOF
+) > $POT_FILE
+
+tail -n +2 $ISO3166_SENTENCE_CASE_DB | while read _LINE
+do
+    # split line on delimiter
+    ALPHA_2_CODE=$(echo $_LINE | cut -d';' -f1)
+    NAME=$(echo $_LINE | cut -d';' -f2)
+    
+    # create pot file entry
+    echo "#. $ALPHA_2_CODE" >> $POT_FILE
+    echo "#. $NAME" >> $POT_FILE
+    echo "msgid \"$NAME\"" >> $POT_FILE
+    echo "msgstr \"\"" >> $POT_FILE
+    echo "" >> $POT_FILE
+    
+done
+
+exit
+
