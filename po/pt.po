@@ -1,0 +1,1514 @@
+# mundo-names
+# https://github.com/sethfischer/mundo-names
+# This file is distributed under the same licence as the mundo-names package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mundo-names\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2012-11-10 14:50+1300\n"
+"PO-Revision-Date: 2012-11-11 12:44+1200\n"
+"Last-Translator: Seth Fischer <seth7f@gmail.com>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: PORTUGAL\n"
+
+#. AF
+#. Afghanistan
+#, fuzzy
+msgid "Afghanistan"
+msgstr "Afeganistão"
+
+#. AX
+#. Åland Islands
+#, fuzzy
+msgid "Åland Islands"
+msgstr ""
+
+#. AL
+#. Albania
+#, fuzzy
+msgid "Albania"
+msgstr "Albânia"
+
+#. DZ
+#. Algeria
+#, fuzzy
+msgid "Algeria"
+msgstr "Argélia"
+
+#. AS
+#. American Samoa
+#, fuzzy
+msgid "American Samoa"
+msgstr "Samoa Americana"
+
+#. AD
+#. Andorra
+#, fuzzy
+msgid "Andorra"
+msgstr "Andorra"
+
+#. AO
+#. Angola
+#, fuzzy
+msgid "Angola"
+msgstr "Angola"
+
+#. AI
+#. Anguilla
+#, fuzzy
+msgid "Anguilla"
+msgstr "Anguila"
+
+#. AQ
+#. Antarctica
+#, fuzzy
+msgid "Antarctica"
+msgstr "Antárctida"
+
+#. AG
+#. Antigua and Barbuda
+#, fuzzy
+msgid "Antigua and Barbuda"
+msgstr "Antígua e Barbuda"
+
+#. AR
+#. Argentina
+#, fuzzy
+msgid "Argentina"
+msgstr "Argentina"
+
+#. AM
+#. Armenia
+#, fuzzy
+msgid "Armenia"
+msgstr "Arménia"
+
+#. AW
+#. Aruba
+#, fuzzy
+msgid "Aruba"
+msgstr "Aruba"
+
+#. AU
+#. Australia
+#, fuzzy
+msgid "Australia"
+msgstr "Austrália"
+
+#. AT
+#. Austria
+#, fuzzy
+msgid "Austria"
+msgstr "Áustria"
+
+#. AZ
+#. Azerbaijan
+#, fuzzy
+msgid "Azerbaijan"
+msgstr "Azerbaijão"
+
+#. BS
+#. Bahamas
+#, fuzzy
+msgid "Bahamas"
+msgstr "Baamas"
+
+#. BH
+#. Bahrain
+#, fuzzy
+msgid "Bahrain"
+msgstr "Barém"
+
+#. BD
+#. Bangladesh
+#, fuzzy
+msgid "Bangladesh"
+msgstr "Bangladeche"
+
+#. BB
+#. Barbados
+#, fuzzy
+msgid "Barbados"
+msgstr "Barbados"
+
+#. BY
+#. Belarus
+#, fuzzy
+msgid "Belarus"
+msgstr "Bielorrússia"
+
+#. BE
+#. Belgium
+#, fuzzy
+msgid "Belgium"
+msgstr "Bélgica"
+
+#. BZ
+#. Belize
+#, fuzzy
+msgid "Belize"
+msgstr "Belize"
+
+#. BJ
+#. Benin
+#, fuzzy
+msgid "Benin"
+msgstr "Benim"
+
+#. BM
+#. Bermuda
+#, fuzzy
+msgid "Bermuda"
+msgstr "Bermudas"
+
+#. BT
+#. Bhutan
+#, fuzzy
+msgid "Bhutan"
+msgstr "Butão"
+
+#. BO
+#. Bolivia, Plurinational State of
+#, fuzzy
+msgid "Bolivia, Plurinational State of"
+msgstr "Bolívia"
+
+#. BQ
+#. Bonaire, Sint Eustatius and Saba
+#, fuzzy
+msgid "Bonaire, Sint Eustatius and Saba"
+msgstr ""
+
+#. BA
+#. Bosnia and Herzegovina
+#, fuzzy
+msgid "Bosnia and Herzegovina"
+msgstr "Bósnia e Herzegovina"
+
+#. BW
+#. Botswana
+#, fuzzy
+msgid "Botswana"
+msgstr "Botsuana"
+
+#. BV
+#. Bouvet Island
+#, fuzzy
+msgid "Bouvet Island"
+msgstr "Ilha Bouvet"
+
+#. BR
+#. Brazil
+#, fuzzy
+msgid "Brazil"
+msgstr "Brasil"
+
+#. IO
+#. British Indian Ocean Territory
+#, fuzzy
+msgid "British Indian Ocean Territory"
+msgstr "Território Britânico do Oceano Índico"
+
+#. BN
+#. Brunei Darussalam
+#, fuzzy
+msgid "Brunei Darussalam"
+msgstr "Brunei"
+
+#. BG
+#. Bulgaria
+#, fuzzy
+msgid "Bulgaria"
+msgstr "Bulgária"
+
+#. BF
+#. Burkina Faso
+#, fuzzy
+msgid "Burkina Faso"
+msgstr "Burquina Faso"
+
+#. BI
+#. Burundi
+#, fuzzy
+msgid "Burundi"
+msgstr "Burúndi"
+
+#. KH
+#. Cambodia
+#, fuzzy
+msgid "Cambodia"
+msgstr "Camboja"
+
+#. CM
+#. Cameroon
+#, fuzzy
+msgid "Cameroon"
+msgstr "Camarões"
+
+#. CA
+#. Canada
+#, fuzzy
+msgid "Canada"
+msgstr "Canadá"
+
+#. CV
+#. Cape Verde
+#, fuzzy
+msgid "Cape Verde"
+msgstr "Cabo Verde"
+
+#. KY
+#. Cayman Islands
+#, fuzzy
+msgid "Cayman Islands"
+msgstr "Ilhas Caimão"
+
+#. CF
+#. Central African Republic
+#, fuzzy
+msgid "Central African Republic"
+msgstr "República Centro-Africana"
+
+#. TD
+#. Chad
+#, fuzzy
+msgid "Chad"
+msgstr "Chade"
+
+#. CL
+#. Chile
+#, fuzzy
+msgid "Chile"
+msgstr "Chile"
+
+#. CN
+#. China
+#, fuzzy
+msgid "China"
+msgstr "China"
+
+#. CX
+#. Christmas Island
+#, fuzzy
+msgid "Christmas Island"
+msgstr "Ilha do Natal"
+
+#. CC
+#. Cocos (Keeling) Islands
+#, fuzzy
+msgid "Cocos (Keeling) Islands"
+msgstr "Ilhas dos Cocos"
+
+#. CO
+#. Colombia
+#, fuzzy
+msgid "Colombia"
+msgstr "Colômbia"
+
+#. KM
+#. Comoros
+#, fuzzy
+msgid "Comoros"
+msgstr "Comores"
+
+#. CG
+#. Congo
+#, fuzzy
+msgid "Congo"
+msgstr "Congo-Brazzaville"
+
+#. CD
+#. Congo, The Democratic Republic of the
+#, fuzzy
+msgid "Congo, The Democratic Republic of the"
+msgstr "Congo-Kinshasa"
+
+#. CK
+#. Cook Islands
+#, fuzzy
+msgid "Cook Islands"
+msgstr "Ilhas Cook"
+
+#. CR
+#. Costa Rica
+#, fuzzy
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#. CI
+#. Côte D'Ivoire
+#, fuzzy
+msgid "Côte D'Ivoire"
+msgstr "Costa do Marfim"
+
+#. HR
+#. Croatia
+#, fuzzy
+msgid "Croatia"
+msgstr "Croácia"
+
+#. CU
+#. Cuba
+#, fuzzy
+msgid "Cuba"
+msgstr "Cuba"
+
+#. CW
+#. Curaçao
+#, fuzzy
+msgid "Curaçao"
+msgstr ""
+
+#. CY
+#. Cyprus
+#, fuzzy
+msgid "Cyprus"
+msgstr "Chipre"
+
+#. CZ
+#. Czech Republic
+#, fuzzy
+msgid "Czech Republic"
+msgstr "República Checa"
+
+#. DK
+#. Denmark
+#, fuzzy
+msgid "Denmark"
+msgstr "Dinamarca"
+
+#. DJ
+#. Djibouti
+#, fuzzy
+msgid "Djibouti"
+msgstr "Jibuti"
+
+#. DM
+#. Dominica
+#, fuzzy
+msgid "Dominica"
+msgstr "Domínica"
+
+#. DO
+#. Dominican Republic
+#, fuzzy
+msgid "Dominican Republic"
+msgstr "República Dominicana"
+
+#. EC
+#. Ecuador
+#, fuzzy
+msgid "Ecuador"
+msgstr "Equador"
+
+#. EG
+#. Egypt
+#, fuzzy
+msgid "Egypt"
+msgstr "Egipto"
+
+#. SV
+#. El Salvador
+#, fuzzy
+msgid "El Salvador"
+msgstr "Salvador"
+
+#. GQ
+#. Equatorial Guinea
+#, fuzzy
+msgid "Equatorial Guinea"
+msgstr "Guiné Equatorial"
+
+#. ER
+#. Eritrea
+#, fuzzy
+msgid "Eritrea"
+msgstr "Eritreia"
+
+#. EE
+#. Estonia
+#, fuzzy
+msgid "Estonia"
+msgstr "Estónia"
+
+#. ET
+#. Ethiopia
+#, fuzzy
+msgid "Ethiopia"
+msgstr "Etiópia"
+
+#. FK
+#. Falkland Islands (Malvinas)
+#, fuzzy
+msgid "Falkland Islands (Malvinas)"
+msgstr "Ilhas Falkland"
+
+#. FO
+#. Faroe Islands
+#, fuzzy
+msgid "Faroe Islands"
+msgstr "Faroé"
+
+#. FJ
+#. Fiji
+#, fuzzy
+msgid "Fiji"
+msgstr "Fiji"
+
+#. FI
+#. Finland
+#, fuzzy
+msgid "Finland"
+msgstr "Finlândia"
+
+#. FR
+#. France
+#, fuzzy
+msgid "France"
+msgstr "França"
+
+#. GF
+#. French Guiana
+#, fuzzy
+msgid "French Guiana"
+msgstr "Guiana Francesa"
+
+#. PF
+#. French Polynesia
+#, fuzzy
+msgid "French Polynesia"
+msgstr "Polinésia Francesa"
+
+#. TF
+#. French Southern Territories
+#, fuzzy
+msgid "French Southern Territories"
+msgstr "Territórios Austrais Franceses"
+
+#. GA
+#. Gabon
+#, fuzzy
+msgid "Gabon"
+msgstr "Gabão"
+
+#. GM
+#. Gambia
+#, fuzzy
+msgid "Gambia"
+msgstr "Gâmbia"
+
+#. GE
+#. Georgia
+#, fuzzy
+msgid "Georgia"
+msgstr "Geórgia"
+
+#. DE
+#. Germany
+#, fuzzy
+msgid "Germany"
+msgstr "Alemanha"
+
+#. GH
+#. Ghana
+#, fuzzy
+msgid "Ghana"
+msgstr "Gana"
+
+#. GI
+#. Gibraltar
+#, fuzzy
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#. GR
+#. Greece
+#, fuzzy
+msgid "Greece"
+msgstr "Grécia"
+
+#. GL
+#. Greenland
+#, fuzzy
+msgid "Greenland"
+msgstr "Gronelândia"
+
+#. GD
+#. Grenada
+#, fuzzy
+msgid "Grenada"
+msgstr "Granada"
+
+#. GP
+#. Guadeloupe
+#, fuzzy
+msgid "Guadeloupe"
+msgstr "Guadalupe"
+
+#. GU
+#. Guam
+#, fuzzy
+msgid "Guam"
+msgstr "Guame"
+
+#. GT
+#. Guatemala
+#, fuzzy
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#. GG
+#. Guernsey
+#, fuzzy
+msgid "Guernsey"
+msgstr ""
+
+#. GN
+#. Guinea
+#, fuzzy
+msgid "Guinea"
+msgstr "Guiné"
+
+#. GW
+#. Guinea-Bissau
+#, fuzzy
+msgid "Guinea-Bissau"
+msgstr "Guiné-Bissau"
+
+#. GY
+#. Guyana
+#, fuzzy
+msgid "Guyana"
+msgstr "Guiana"
+
+#. HT
+#. Haiti
+#, fuzzy
+msgid "Haiti"
+msgstr "Haiti"
+
+#. HM
+#. Heard Island and Mcdonald Islands
+#, fuzzy
+msgid "Heard Island and Mcdonald Islands"
+msgstr "Ilhas Heard e McDonald"
+
+#. VA
+#. Holy See (Vatican City State)
+#, fuzzy
+msgid "Holy See (Vatican City State)"
+msgstr "Vaticano"
+
+#. HN
+#. Honduras
+#, fuzzy
+msgid "Honduras"
+msgstr "Honduras"
+
+#. HK
+#. Hong Kong
+#, fuzzy
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#. HU
+#. Hungary
+#, fuzzy
+msgid "Hungary"
+msgstr "Hungria"
+
+#. IS
+#. Iceland
+#, fuzzy
+msgid "Iceland"
+msgstr "Islândia"
+
+#. IN
+#. India
+#, fuzzy
+msgid "India"
+msgstr "Índia"
+
+#. ID
+#. Indonesia
+#, fuzzy
+msgid "Indonesia"
+msgstr "Indonésia"
+
+#. IR
+#. Iran, Islamic Republic of
+#, fuzzy
+msgid "Iran, Islamic Republic of"
+msgstr "Irão"
+
+#. IQ
+#. Iraq
+#, fuzzy
+msgid "Iraq"
+msgstr "Iraque"
+
+#. IE
+#. Ireland
+#, fuzzy
+msgid "Ireland"
+msgstr "Irlanda"
+
+#. IM
+#. Isle of Man
+#, fuzzy
+msgid "Isle of Man"
+msgstr ""
+
+#. IL
+#. Israel
+#, fuzzy
+msgid "Israel"
+msgstr "Israel"
+
+#. IT
+#. Italy
+#, fuzzy
+msgid "Italy"
+msgstr "Itália"
+
+#. JM
+#. Jamaica
+#, fuzzy
+msgid "Jamaica"
+msgstr "Jamaica"
+
+#. JP
+#. Japan
+#, fuzzy
+msgid "Japan"
+msgstr "Japão"
+
+#. JE
+#. Jersey
+#, fuzzy
+msgid "Jersey"
+msgstr ""
+
+#. JO
+#. Jordan
+#, fuzzy
+msgid "Jordan"
+msgstr "Jordânia"
+
+#. KZ
+#. Kazakhstan
+#, fuzzy
+msgid "Kazakhstan"
+msgstr "Cazaquistão"
+
+#. KE
+#. Kenya
+#, fuzzy
+msgid "Kenya"
+msgstr "Quénia"
+
+#. KI
+#. Kiribati
+#, fuzzy
+msgid "Kiribati"
+msgstr "Quiribáti"
+
+#. KP
+#. Korea, Democratic People's Republic of
+#, fuzzy
+msgid "Korea, Democratic People's Republic of"
+msgstr "Coreia do Norte"
+
+#. KR
+#. Korea, Republic of
+#, fuzzy
+msgid "Korea, Republic of"
+msgstr "Coreia do Sul"
+
+#. KW
+#. Kuwait
+#, fuzzy
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#. KG
+#. Kyrgyzstan
+#, fuzzy
+msgid "Kyrgyzstan"
+msgstr "Quirguizistão"
+
+#. LA
+#. Lao People's Democratic Republic
+#, fuzzy
+msgid "Lao People's Democratic Republic"
+msgstr "Laos"
+
+#. LV
+#. Latvia
+#, fuzzy
+msgid "Latvia"
+msgstr "Letónia"
+
+#. LB
+#. Lebanon
+#, fuzzy
+msgid "Lebanon"
+msgstr "Líbano"
+
+#. LS
+#. Lesotho
+#, fuzzy
+msgid "Lesotho"
+msgstr "Lesoto"
+
+#. LR
+#. Liberia
+#, fuzzy
+msgid "Liberia"
+msgstr "Libéria"
+
+#. LY
+#. Libya
+#, fuzzy
+msgid "Libya"
+msgstr "Líbia"
+
+#. LI
+#. Liechtenstein
+#, fuzzy
+msgid "Liechtenstein"
+msgstr "Listenstaine"
+
+#. LT
+#. Lithuania
+#, fuzzy
+msgid "Lithuania"
+msgstr "Lituânia"
+
+#. LU
+#. Luxembourg
+#, fuzzy
+msgid "Luxembourg"
+msgstr "Luxemburgo"
+
+#. MO
+#. Macao
+#, fuzzy
+msgid "Macao"
+msgstr "Macau"
+
+#. MK
+#. Macedonia, The Former Yugoslav Republic of
+#, fuzzy
+msgid "Macedonia, The Former Yugoslav Republic of"
+msgstr "Macedónia"
+
+#. MG
+#. Madagascar
+#, fuzzy
+msgid "Madagascar"
+msgstr "Madagáscar"
+
+#. MW
+#. Malawi
+#, fuzzy
+msgid "Malawi"
+msgstr "Malávi"
+
+#. MY
+#. Malaysia
+#, fuzzy
+msgid "Malaysia"
+msgstr "Malásia"
+
+#. MV
+#. Maldives
+#, fuzzy
+msgid "Maldives"
+msgstr "Maldivas"
+
+#. ML
+#. Mali
+#, fuzzy
+msgid "Mali"
+msgstr "Mali"
+
+#. MT
+#. Malta
+#, fuzzy
+msgid "Malta"
+msgstr "Malta"
+
+#. MH
+#. Marshall Islands
+#, fuzzy
+msgid "Marshall Islands"
+msgstr "Ilhas Marshall"
+
+#. MQ
+#. Martinique
+#, fuzzy
+msgid "Martinique"
+msgstr "Martinica"
+
+#. MR
+#. Mauritania
+#, fuzzy
+msgid "Mauritania"
+msgstr "Mauritânia"
+
+#. MU
+#. Mauritius
+#, fuzzy
+msgid "Mauritius"
+msgstr "Maurícia"
+
+#. YT
+#. Mayotte
+#, fuzzy
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#. MX
+#. Mexico
+#, fuzzy
+msgid "Mexico"
+msgstr "México"
+
+#. FM
+#. Micronesia, Federated States of
+#, fuzzy
+msgid "Micronesia, Federated States of"
+msgstr "Micronésia"
+
+#. MD
+#. Moldova, Republic of
+#, fuzzy
+msgid "Moldova, Republic of"
+msgstr "Moldávia"
+
+#. MC
+#. Monaco
+#, fuzzy
+msgid "Monaco"
+msgstr "Mónaco"
+
+#. MN
+#. Mongolia
+#, fuzzy
+msgid "Mongolia"
+msgstr "Mongólia"
+
+#. ME
+#. Montenegro
+#, fuzzy
+msgid "Montenegro"
+msgstr ""
+
+#. MS
+#. Montserrat
+#, fuzzy
+msgid "Montserrat"
+msgstr "Monserrate"
+
+#. MA
+#. Morocco
+#, fuzzy
+msgid "Morocco"
+msgstr "Marrocos"
+
+#. MZ
+#. Mozambique
+#, fuzzy
+msgid "Mozambique"
+msgstr "Moçambique"
+
+#. MM
+#. Myanmar
+#, fuzzy
+msgid "Myanmar"
+msgstr "Birmânia"
+
+#. NA
+#. Namibia
+#, fuzzy
+msgid "Namibia"
+msgstr "Namíbia"
+
+#. NR
+#. Nauru
+#, fuzzy
+msgid "Nauru"
+msgstr "Nauru"
+
+#. NP
+#. Nepal
+#, fuzzy
+msgid "Nepal"
+msgstr "Nepal"
+
+#. NL
+#. Netherlands
+#, fuzzy
+msgid "Netherlands"
+msgstr "Países Baixos"
+
+#. NC
+#. New Caledonia
+#, fuzzy
+msgid "New Caledonia"
+msgstr "Nova Caledónia"
+
+#. NZ
+#. New Zealand
+#, fuzzy
+msgid "New Zealand"
+msgstr "Nova Zelândia"
+
+#. NI
+#. Nicaragua
+#, fuzzy
+msgid "Nicaragua"
+msgstr "Nicarágua"
+
+#. NE
+#. Niger
+#, fuzzy
+msgid "Niger"
+msgstr "Níger"
+
+#. NG
+#. Nigeria
+#, fuzzy
+msgid "Nigeria"
+msgstr "Nigéria"
+
+#. NU
+#. Niue
+#, fuzzy
+msgid "Niue"
+msgstr "Niue"
+
+#. NF
+#. Norfolk Island
+#, fuzzy
+msgid "Norfolk Island"
+msgstr "Ilha Norfolk"
+
+#. MP
+#. Northern Mariana Islands
+#, fuzzy
+msgid "Northern Mariana Islands"
+msgstr "Marianas do Norte"
+
+#. NO
+#. Norway
+#, fuzzy
+msgid "Norway"
+msgstr "Noruega"
+
+#. OM
+#. Oman
+#, fuzzy
+msgid "Oman"
+msgstr "Omã"
+
+#. PK
+#. Pakistan
+#, fuzzy
+msgid "Pakistan"
+msgstr "Paquistão"
+
+#. PW
+#. Palau
+#, fuzzy
+msgid "Palau"
+msgstr "Palau"
+
+#. PS
+#. Palestinian Territory, Occupied
+#, fuzzy
+msgid "Palestinian Territory, Occupied"
+msgstr ""
+
+#. PA
+#. Panama
+#, fuzzy
+msgid "Panama"
+msgstr "Panamá"
+
+#. PG
+#. Papua New Guinea
+#, fuzzy
+msgid "Papua New Guinea"
+msgstr "Papua-Nova Guiné"
+
+#. PY
+#. Paraguay
+#, fuzzy
+msgid "Paraguay"
+msgstr "Paraguai"
+
+#. PE
+#. Peru
+#, fuzzy
+msgid "Peru"
+msgstr "Peru"
+
+#. PH
+#. Philippines
+#, fuzzy
+msgid "Philippines"
+msgstr "Filipinas"
+
+#. PN
+#. Pitcairn
+#, fuzzy
+msgid "Pitcairn"
+msgstr "Pitcairn"
+
+#. PL
+#. Poland
+#, fuzzy
+msgid "Poland"
+msgstr "Polónia"
+
+#. PT
+#. Portugal
+#, fuzzy
+msgid "Portugal"
+msgstr "Portugal"
+
+#. PR
+#. Puerto Rico
+#, fuzzy
+msgid "Puerto Rico"
+msgstr "Porto Rico"
+
+#. QA
+#. Qatar
+#, fuzzy
+msgid "Qatar"
+msgstr "Catar"
+
+#. RE
+#. Réunion
+#, fuzzy
+msgid "Réunion"
+msgstr "Reunião"
+
+#. RO
+#. Romania
+#, fuzzy
+msgid "Romania"
+msgstr "Roménia"
+
+#. RU
+#. Russian Federation
+#, fuzzy
+msgid "Russian Federation"
+msgstr "Rússia"
+
+#. RW
+#. Rwanda
+#, fuzzy
+msgid "Rwanda"
+msgstr "Ruanda"
+
+#. BL
+#. Saint Barthélemy
+#, fuzzy
+msgid "Saint Barthélemy"
+msgstr ""
+
+#. SH
+#. Saint Helena, Ascension and Tristan da Cunha
+#, fuzzy
+msgid "Saint Helena, Ascension and Tristan da Cunha"
+msgstr "Santa Helena"
+
+#. KN
+#. Saint Kitts and Nevis
+#, fuzzy
+msgid "Saint Kitts and Nevis"
+msgstr "São Cristóvão e Neves"
+
+#. LC
+#. Saint Lucia
+#, fuzzy
+msgid "Saint Lucia"
+msgstr "Santa Lúcia"
+
+#. MF
+#. Saint Martin (French part)
+#, fuzzy
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#. PM
+#. Saint Pierre and Miquelon
+#, fuzzy
+msgid "Saint Pierre and Miquelon"
+msgstr "São Pedro e Miquelon"
+
+#. VC
+#. Saint Vincent and the Grenadines
+#, fuzzy
+msgid "Saint Vincent and the Grenadines"
+msgstr "São Vicente e Granadinas"
+
+#. WS
+#. Samoa
+#, fuzzy
+msgid "Samoa"
+msgstr "Samoa"
+
+#. SM
+#. San Marino
+#, fuzzy
+msgid "San Marino"
+msgstr "São Marinho"
+
+#. ST
+#. Sao Tome and Principe
+#, fuzzy
+msgid "Sao Tome and Principe"
+msgstr "São Tomé e Príncipe"
+
+#. SA
+#. Saudi Arabia
+#, fuzzy
+msgid "Saudi Arabia"
+msgstr "Arábia Saudita"
+
+#. SN
+#. Senegal
+#, fuzzy
+msgid "Senegal"
+msgstr "Senegal"
+
+#. RS
+#. Serbia
+#, fuzzy
+msgid "Serbia"
+msgstr ""
+
+#. SC
+#. Seychelles
+#, fuzzy
+msgid "Seychelles"
+msgstr "Seicheles"
+
+#. SL
+#. Sierra Leone
+#, fuzzy
+msgid "Sierra Leone"
+msgstr "Serra Leoa"
+
+#. SG
+#. Singapore
+#, fuzzy
+msgid "Singapore"
+msgstr "Singapura"
+
+#. SX
+#. Sint Maarten (Dutch part)
+#, fuzzy
+msgid "Sint Maarten (Dutch part)"
+msgstr ""
+
+#. SK
+#. Slovakia
+#, fuzzy
+msgid "Slovakia"
+msgstr "Eslováquia"
+
+#. SI
+#. Slovenia
+#, fuzzy
+msgid "Slovenia"
+msgstr "Eslovénia"
+
+#. SB
+#. Solomon Islands
+#, fuzzy
+msgid "Solomon Islands"
+msgstr "Ilhas Salomão"
+
+#. SO
+#. Somalia
+#, fuzzy
+msgid "Somalia"
+msgstr "Somália"
+
+#. ZA
+#. South Africa
+#, fuzzy
+msgid "South Africa"
+msgstr "África do Sul"
+
+#. GS
+#. South Georgia and The South Sandwich Islands
+#, fuzzy
+msgid "South Georgia and The South Sandwich Islands"
+msgstr "Geórgia do Sul e Sandwich do Sul"
+
+#. SS
+#. South Sudan
+#, fuzzy
+msgid "South Sudan"
+msgstr ""
+
+#. ES
+#. Spain
+#, fuzzy
+msgid "Spain"
+msgstr "Espanha"
+
+#. LK
+#. Sri Lanka
+#, fuzzy
+msgid "Sri Lanka"
+msgstr "Sri Lanca"
+
+#. SD
+#. Sudan
+#, fuzzy
+msgid "Sudan"
+msgstr "Sudão"
+
+#. SR
+#. Suriname
+#, fuzzy
+msgid "Suriname"
+msgstr "Suriname"
+
+#. SJ
+#. Svalbard and Jan Mayen
+#, fuzzy
+msgid "Svalbard and Jan Mayen"
+msgstr "Svalbard e Jan Mayen"
+
+#. SZ
+#. Swaziland
+#, fuzzy
+msgid "Swaziland"
+msgstr "Suazilândia"
+
+#. SE
+#. Sweden
+#, fuzzy
+msgid "Sweden"
+msgstr "Suécia"
+
+#. CH
+#. Switzerland
+#, fuzzy
+msgid "Switzerland"
+msgstr "Suíça"
+
+#. SY
+#. Syrian Arab Republic
+#, fuzzy
+msgid "Syrian Arab Republic"
+msgstr "Síria"
+
+#. TW
+#. Taiwan, Province of China
+#, fuzzy
+msgid "Taiwan, Province of China"
+msgstr "Taiwan"
+
+#. TJ
+#. Tajikistan
+#, fuzzy
+msgid "Tajikistan"
+msgstr "Tajiquistão"
+
+#. TZ
+#. Tanzania, United Republic of
+#, fuzzy
+msgid "Tanzania, United Republic of"
+msgstr "Tanzânia"
+
+#. TH
+#. Thailand
+#, fuzzy
+msgid "Thailand"
+msgstr "Tailândia"
+
+#. TL
+#. Timor-Leste
+#, fuzzy
+msgid "Timor-Leste"
+msgstr "Timor Leste"
+
+#. TG
+#. Togo
+#, fuzzy
+msgid "Togo"
+msgstr "Togo"
+
+#. TK
+#. Tokelau
+#, fuzzy
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#. TO
+#. Tonga
+#, fuzzy
+msgid "Tonga"
+msgstr "Tonga"
+
+#. TT
+#. Trinidad and Tobago
+#, fuzzy
+msgid "Trinidad and Tobago"
+msgstr "Trindade e Tobago"
+
+#. TN
+#. Tunisia
+#, fuzzy
+msgid "Tunisia"
+msgstr "Tunísia"
+
+#. TR
+#. Turkey
+#, fuzzy
+msgid "Turkey"
+msgstr "Turquia"
+
+#. TM
+#. Turkmenistan
+#, fuzzy
+msgid "Turkmenistan"
+msgstr "Turquemenistão"
+
+#. TC
+#. Turks and Caicos Islands
+#, fuzzy
+msgid "Turks and Caicos Islands"
+msgstr "Ilhas Turcas e Caicos"
+
+#. TV
+#. Tuvalu
+#, fuzzy
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#. UG
+#. Uganda
+#, fuzzy
+msgid "Uganda"
+msgstr "Uganda"
+
+#. UA
+#. Ukraine
+#, fuzzy
+msgid "Ukraine"
+msgstr "Ucrânia"
+
+#. AE
+#. United Arab Emirates
+#, fuzzy
+msgid "United Arab Emirates"
+msgstr "Emiratos Árabes Unidos"
+
+#. GB
+#. United Kingdom
+#, fuzzy
+msgid "United Kingdom"
+msgstr "Reino Unido"
+
+#. US
+#. United States
+#, fuzzy
+msgid "United States"
+msgstr "Estados Unidos"
+
+#. UM
+#. United States Minor Outlying Islands
+#, fuzzy
+msgid "United States Minor Outlying Islands"
+msgstr "Ilhas Menores Distantes dos Estados Unidos"
+
+#. UY
+#. Uruguay
+#, fuzzy
+msgid "Uruguay"
+msgstr "Uruguai"
+
+#. UZ
+#. Uzbekistan
+#, fuzzy
+msgid "Uzbekistan"
+msgstr "Usbequistão"
+
+#. VU
+#. Vanuatu
+#, fuzzy
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#. VE
+#. Venezuela, Bolivarian Republic of
+#, fuzzy
+msgid "Venezuela, Bolivarian Republic of"
+msgstr "Venezuela"
+
+#. VN
+#. Viet Nam
+#, fuzzy
+msgid "Viet Nam"
+msgstr "Vietname"
+
+#. VG
+#. Virgin Islands, British
+#, fuzzy
+msgid "Virgin Islands, British"
+msgstr "Ilhas Virgens Britânicas"
+
+#. VI
+#. Virgin Islands, U.S.
+#, fuzzy
+msgid "Virgin Islands, U.S."
+msgstr "Ilhas Virgens Americanas"
+
+#. WF
+#. Wallis and Futuna
+#, fuzzy
+msgid "Wallis and Futuna"
+msgstr "Wallis e Futuna"
+
+#. EH
+#. Western Sahara
+#, fuzzy
+msgid "Western Sahara"
+msgstr "Sara Ocidental"
+
+#. YE
+#. Yemen
+#, fuzzy
+msgid "Yemen"
+msgstr "Iémen"
+
+#. ZM
+#. Zambia
+#, fuzzy
+msgid "Zambia"
+msgstr "Zâmbia"
+
+#. ZW
+#. Zimbabwe
+#, fuzzy
+msgid "Zimbabwe"
+msgstr "Zimbabué"
+
