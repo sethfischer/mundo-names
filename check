@@ -6,7 +6,7 @@
 #=============================================================================
 
 ISO3166_1_DB="iso3166-1_en.csv"
-ISO3166_MSGID_DB="iso3166-1_en_sentence_case.csv"
+ISO3166_MSGID_DB="iso3166-1_en_msgid.csv"
 
 # compare official ISO3166-1 alpha-2 codes with sentence case alpha-2 codes
 

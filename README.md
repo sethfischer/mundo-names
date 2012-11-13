@@ -42,10 +42,10 @@ Files and directories
     and XML files are not version controlled please refer to different versions 
     by the date("YYYY-mm-dd") of download from the ISO website.
 
-* iso3166-1_en_sentence_case.csv
+* iso3166-1_en_msgid.csv
 
     List of ISO 3166-1 country codes along with the country name in sentence 
-    case.
+    case (used for translation file msgid).
 
 * LICENCE
 
