@@ -7,7 +7,7 @@
 
 set -o nounset
 
-ISO3166_SENTENCE_CASE_DB="iso3166-1_en_sentence_case.csv"
+ISO3166_MSGID_DB="iso3166-1_en_sentence_case.csv"
 POT_FILE="mundo-names.pot"
 
 POT_CREATION_DATE=$(date '+%Y-%m-%d %H:%M%z')
@@ -40,7 +40,7 @@ msgstr ""
 EOF
 ) > $POT_FILE
 
-tail -n +2 $ISO3166_SENTENCE_CASE_DB | while read _LINE
+tail -n +2 $ISO3166_MSGID_DB | while read _LINE
 do
     # split line on delimiter
     ALPHA_2_CODE=$(echo $_LINE | cut -d';' -f1)

@@ -6,7 +6,7 @@
 #=============================================================================
 
 ISO3166_1_DB="iso3166-1_en.csv"
-ISO3166_SENTENCE_CASE_DB="iso3166-1_en_sentence_case.csv"
+ISO3166_MSGID_DB="iso3166-1_en_sentence_case.csv"
 
 # compare official ISO3166-1 alpha-2 codes with sentence case alpha-2 codes
 
@@ -15,7 +15,7 @@ diff \
 --suppress-common-lines \
 --strip-trailing-cr \
 <(tail -n +2 $ISO3166_1_DB | cut -d';' -f2 | sort) \
-<(tail -n +2 $ISO3166_SENTENCE_CASE_DB | cut -d';' -f1 | sort)
+<(tail -n +2 $ISO3166_MSGID_DB | cut -d';' -f1 | sort)
 
 exit
 
